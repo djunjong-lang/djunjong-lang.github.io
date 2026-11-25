@@ -6,7 +6,28 @@
     <atom:link href="https://djunjong-lang.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <description>로보락 · 드리미 · 에코백스 · 나르왈 · 모바 · 샤오미 기종별 소모품 규격·교체 체크리스트 아카이브</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 25 Nov 2026 15:31:18 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 21:31:14 +0900</lastBuildDate>
+    <item>
+      <title>나르왈 S10 Pro 소모품 교체 주기｜습식 롤러 브러시·헤파필터 1년 세트 비교</title>
+      <link>https://djunjong-lang.github.io/guides/nb-0261-narwal-s10-pro/</link>
+      <guid isPermaLink="true">https://djunjong-lang.github.io/guides/nb-0261-narwal-s10-pro/</guid>
+      <pubDate>Wed, 25 Nov 2026 09:00:00 +0900</pubDate>
+      <description>나르왈 S10 Pro 점검 규격(S10 Pro 전용 브러시 롤러(습식 바닥 밀착용 원통형 극세사 롤러), S10 Pro 사각 헤파필터(오수통 상단 장착 블랙 프레임 주름 필터), 시리즈 모델 번호 확인(본체 명판 ‘Narwal S10 Pro’ 표기 대조)) 및 교체...</description>
+    </item>
+    <item>
+      <title>나르왈 S20 Pro 소모품 교체 주기｜아쿠아 물걸레 롤러·필터 냄새 잡는 1년 세트</title>
+      <link>https://djunjong-lang.github.io/guides/nb-0260-narwal-s20-pro/</link>
+      <guid isPermaLink="true">https://djunjong-lang.github.io/guides/nb-0260-narwal-s20-pro/</guid>
+      <pubDate>Wed, 25 Nov 2026 09:00:00 +0900</pubDate>
+      <description>나르왈 S20 Pro 점검 규격(퍼플 스트라이프 브러시 롤러(화이트·그레이 바탕 보라색 줄무늬 습식 롤러), 오수통 상단 사각 헤파필터(수분·미세먼지 분리용 블랙 프레임 주름 필터), 아쿠아 시리즈 모델명 대조(본체 후면 ‘S20 Pro’ 영문 모델명 확인)) 및 교...</description>
+    </item>
+    <item>
+      <title>에코백스 디봇 T50 프로 옴니 소모품 교체 주기｜원형 걸레·필터·세제 1년 세트</title>
+      <link>https://djunjong-lang.github.io/guides/nb-0259-ecovacs-t50-pro-omni/</link>
+      <guid isPermaLink="true">https://djunjong-lang.github.io/guides/nb-0259-ecovacs-t50-pro-omni/</guid>
+      <pubDate>Wed, 25 Nov 2026 09:00:00 +0900</pubDate>
+      <description>에코백스 디봇 T50 프로 옴니 점검 규격(V자 메인·블루 링 3암 브러시(엉킴 저감 V자 브러시 + 전용 3갈래 사이드브러시), 블랙 프레임 필터·더스트백(사각 워셔블 주름 필터 + 화이트 칼라 먼지봉투), 원형 회전 걸레·전용 세제(그레이 극세사 원형 패드 쌍 +...</description>
+    </item>
     <item>
       <title>모바 S70 울트라 롤러 세제 미포함 1년 세트｜원통형 롤러·필터 실속 보충 가이드</title>
       <link>https://djunjong-lang.github.io/guides/nb-0258-mova-s70-ultra-roller-nodet/</link>
@@ -335,27 +356,6 @@
       <guid isPermaLink="true">https://djunjong-lang.github.io/guides/nb-0194-s10/</guid>
       <pubDate>Fri, 20 Nov 2026 09:00:00 +0900</pubDate>
       <description>주방 매일 청소하는 집을 점검 규격(듀오디바이드·2발 브러시, 중앙 세로탭 필터·회색 더스트백, 반원형 메인·원형 미니 걸레·세제(진동 메인 패드 + 엣지 미니 패드 + 선택 세제)) 및 교체 신호 비교. 주방 매일 청소하는 집을의 듀오디바이드·2발 브러시 규격과 관...</description>
-    </item>
-    <item>
-      <title>온수 세척 후 본체 필터까지 챙기는 샤오미 X20 MAX 1년 소모품 세트 관리</title>
-      <link>https://djunjong-lang.github.io/guides/nb-0193-xiaomi-x20-max/</link>
-      <guid isPermaLink="true">https://djunjong-lang.github.io/guides/nb-0193-xiaomi-x20-max/</guid>
-      <pubDate>Fri, 20 Nov 2026 09:00:00 +0900</pubDate>
-      <description>온수 세척 후 본체 점검 규격(슬림형 블랙 프레임 필터(가로형 직사각 워셔블 헤파필터), 오렌지 V자 메인·3암 브러시(주황·검정 롤러 브러시 + 3갈래 사이드브러시), 원형 회전 걸레·더스트백(그레이 극세사 원형 패드 + 크라프트 칼라 봉투)) 및 교체 신호 비교....</description>
-    </item>
-    <item>
-      <title>나르왈 프레오 Z10 울트라 둥근 삼각 물걸레·보라 고리 더스트백 서랍 정리 루틴</title>
-      <link>https://djunjong-lang.github.io/guides/nb-0192-narwal-freo-z10-ultra/</link>
-      <guid isPermaLink="true">https://djunjong-lang.github.io/guides/nb-0192-narwal-freo-z10-ultra/</guid>
-      <pubDate>Fri, 20 Nov 2026 09:00:00 +0900</pubDate>
-      <description>나르왈 프레오 Z10 울트라 둥근 삼각 점검 규격(둥근 삼각 물걸레 패드(삼각 센터홀 화이트 플러시 극세사 패드), 퍼플 고리 더스트백(다크그레이 칼라 + 보라색 당김 고리 봉투), 원추형 브러시·화이트 필터(퍼플·블랙 스파이럴 브러시 + 화이트 프레임 필터)) 및...</description>
-    </item>
-    <item>
-      <title>드리미 L20 울트라·X30 울트라 vs X40·X50 필터·더스트백 규격 비교와 1년 세트</title>
-      <link>https://djunjong-lang.github.io/guides/nb-0191-dreame-l20-ultra/</link>
-      <guid isPermaLink="true">https://djunjong-lang.github.io/guides/nb-0191-dreame-l20-ultra/</guid>
-      <pubDate>Fri, 20 Nov 2026 09:00:00 +0900</pubDate>
-      <description>드리미 L20 울트라 점검 규격(세로형 블랙 프레임 필터(세로가 긴 직사각 워셔블 헤파필터), 크라프트 칼라 더스트백(브라운 카드 홀더 대용량 먼지봉투), 스파이럴 브러시·원형 걸레(실리콘 나선형 롤러 + 3암 브러시 + 원형 패드)) 및 교체 신호 비교. 드리미 L...</description>
     </item>
   </channel>
 </rss>
