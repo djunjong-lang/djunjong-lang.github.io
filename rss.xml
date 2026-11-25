@@ -6,7 +6,28 @@
     <atom:link href="https://djunjong-lang.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <description>로보락 · 드리미 · 에코백스 · 나르왈 · 모바 · 샤오미 기종별 소모품 규격·교체 체크리스트 아카이브</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 25 Nov 2026 21:31:14 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 03:31:14 +0900</lastBuildDate>
+    <item>
+      <title>샤오미 로봇청소기 X20 Pro 소모품 교체 주기｜필터·원형 걸레·더스트백 1년 세트</title>
+      <link>https://djunjong-lang.github.io/guides/nb-0264-xiaomi-x20-pro/</link>
+      <guid isPermaLink="true">https://djunjong-lang.github.io/guides/nb-0264-xiaomi-x20-pro/</guid>
+      <pubDate>Thu, 26 Nov 2026 09:00:00 +0900</pubDate>
+      <description>샤오미 로봇청소기 X20 Pro 점검 규격(주황 V자 메인·3암 브러시, 슬림형 블랙 프레임 필터(가로 직사각 워셔블 헤파필터), 크라프트 더스트백·원형 걸레(갈색 판지 칼라 봉투 + 그레이 원형 패드 쌍)) 및 교체 신호 비교. 샤오미 X20 Pro와 X20 MAX...</description>
+    </item>
+    <item>
+      <title>샤오미 로봇청소기 S20 소모품 교체 주기｜흡입력 살리는 필터·걸레 1년 세트</title>
+      <link>https://djunjong-lang.github.io/guides/nb-0263-xiaomi-s20/</link>
+      <guid isPermaLink="true">https://djunjong-lang.github.io/guides/nb-0263-xiaomi-s20/</guid>
+      <pubDate>Thu, 26 Nov 2026 09:00:00 +0900</pubDate>
+      <description>샤오미 로봇청소기 S20 점검 규격(본체 먼지통 헤파필터(컴팩트 직사각 주름 필터 (더스트백 미사용 기종)), 오렌지 V자·3암 브러시(V자 메인 롤러 + 3갈래 사이드브러시), 하단 부착용 물걸레 패드(S20 물걸레 플레이트 전용 극세사 패드)) 및 교체 신호 비교...</description>
+    </item>
+    <item>
+      <title>샤오미 로봇청소기 M40 소모품 교체 주기｜걸레·필터·더스트백 1년 세트 가성비</title>
+      <link>https://djunjong-lang.github.io/guides/nb-0262-xiaomi-m40/</link>
+      <guid isPermaLink="true">https://djunjong-lang.github.io/guides/nb-0262-xiaomi-m40/</guid>
+      <pubDate>Wed, 25 Nov 2026 09:00:00 +0900</pubDate>
+      <description>샤오미 로봇청소기 M40 점검 규격(오렌지 V자 메인·3암 브러시(오렌지·블랙 복합 롤러 + 3갈래 사이드브러시), 원형 회전 물걸레 패드(그레이 고밀도 극세사 원형 패드 쌍), 화이트 프레임 필터·더스트백(직사각 헤파필터 + 브라운 크라프트 칼라 봉투)) 및 교체...</description>
+    </item>
     <item>
       <title>나르왈 S10 Pro 소모품 교체 주기｜습식 롤러 브러시·헤파필터 1년 세트 비교</title>
       <link>https://djunjong-lang.github.io/guides/nb-0261-narwal-s10-pro/</link>
@@ -335,27 +356,6 @@
       <guid isPermaLink="true">https://djunjong-lang.github.io/guides/nb-0215-xiaomi-m30s/</guid>
       <pubDate>Sun, 22 Nov 2026 09:00:00 +0900</pubDate>
       <description>모서리 확장 점검 규격(원형 회전 물걸레 패드(벨크로 부착식 도톰한 그레이 원형 패드), 오렌지 메인·3암 사이드브러시(V자 브러시 롤러 + 3갈래 사이드브러시), 화이트 프레임 필터·더스트백(직사각 헤파필터 + 크라프트 칼라 더스트백)) 및 교체 신호 비교. 모서리...</description>
-    </item>
-    <item>
-      <title>원통형 롤러 물걸레와 전용 세제를 한 번에 챙기는 모바 S70 울트라 롤러 1년 세트</title>
-      <link>https://djunjong-lang.github.io/guides/nb-0196-mova-s70-ultra-roller/</link>
-      <guid isPermaLink="true">https://djunjong-lang.github.io/guides/nb-0196-mova-s70-ultra-roller/</guid>
-      <pubDate>Fri, 20 Nov 2026 09:00:00 +0900</pubDate>
-      <description>원통형 롤러 점검 규격(원통형 롤러 물걸레·전용 세제(장폭 극세사 롤러 튜브 + 전용 클리너 포함), 스파이럴 브러시·3암 브러시(실리콘 나선형 메인브러시 + 3갈래 사이드브러시), 화이트 테두리 필터·더스트백(다크그레이 사각 필터 + 블랙 칼라 더스트백)) 및 교체...</description>
-    </item>
-    <item>
-      <title>에코백스 디봇 로봇청소기 물걸레 냄새 줄이는 전용 클리너 1L 정량 관리</title>
-      <link>https://djunjong-lang.github.io/guides/nb-0195-ecovacs-cleaner/</link>
-      <guid isPermaLink="true">https://djunjong-lang.github.io/guides/nb-0195-ecovacs-cleaner/</guid>
-      <pubDate>Fri, 20 Nov 2026 09:00:00 +0900</pubDate>
-      <description>에코백스 디봇 로봇청소기 점검 규격(용량 1L-1병(에코백스 바닥 로봇청소기용 1L 대용량 1병), 용량 1L-2병(복수구매할인)(1L 대용량 본품 2병 할인 묶음), DEEBOT 전용 확인(바닥 로봇청소기(DEEBOT) 전용 포뮬러)) 및 교체 신호 비교. 에코백스...</description>
-    </item>
-    <item>
-      <title>거실·주방 매일 청소하는 집을 위한 로보락 S10 MaxV Ultra 9종 세트 선택법</title>
-      <link>https://djunjong-lang.github.io/guides/nb-0194-s10/</link>
-      <guid isPermaLink="true">https://djunjong-lang.github.io/guides/nb-0194-s10/</guid>
-      <pubDate>Fri, 20 Nov 2026 09:00:00 +0900</pubDate>
-      <description>주방 매일 청소하는 집을 점검 규격(듀오디바이드·2발 브러시, 중앙 세로탭 필터·회색 더스트백, 반원형 메인·원형 미니 걸레·세제(진동 메인 패드 + 엣지 미니 패드 + 선택 세제)) 및 교체 신호 비교. 주방 매일 청소하는 집을의 듀오디바이드·2발 브러시 규격과 관...</description>
     </item>
   </channel>
 </rss>
