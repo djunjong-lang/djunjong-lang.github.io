@@ -6,7 +6,14 @@
     <atom:link href="https://djunjong-lang.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <description>로보락 · 드리미 · 에코백스 · 나르왈 · 모바 · 샤오미 기종별 소모품 규격·교체 체크리스트 아카이브</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 25 Nov 2026 13:25:56 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 15:31:18 +0900</lastBuildDate>
+    <item>
+      <title>모바 S70 울트라 롤러 세제 미포함 1년 세트｜원통형 롤러·필터 실속 보충 가이드</title>
+      <link>https://djunjong-lang.github.io/guides/nb-0258-mova-s70-ultra-roller-nodet/</link>
+      <guid isPermaLink="true">https://djunjong-lang.github.io/guides/nb-0258-mova-s70-ultra-roller-nodet/</guid>
+      <pubDate>Wed, 25 Nov 2026 09:00:00 +0900</pubDate>
+      <description>모바 S70 울트라 롤러 세제 미포함 1년 세트 점검 규격(장폭 원통형 롤러 물걸레(고밀도 극세사 롤러 튜브 (측면 홀더 결합식)), 메인·3암 사이드브러시(스파이럴 고무 메인 롤러 + 3갈래 사이드브러시), 다크그레이 필터·더스트백(화이트 테두리 사각 필터 + 블랙...</description>
+    </item>
     <item>
       <title>모바 P70 프로 울트라 소모품 교체 주기｜세제 미포함 실속 1년 세트 가격·구성</title>
       <link>https://djunjong-lang.github.io/guides/nb-0257-mova-p70-pro-ultra-nodet/</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="true">https://djunjong-lang.github.io/guides/nb-0191-dreame-l20-ultra/</guid>
       <pubDate>Fri, 20 Nov 2026 09:00:00 +0900</pubDate>
       <description>드리미 L20 울트라 점검 규격(세로형 블랙 프레임 필터(세로가 긴 직사각 워셔블 헤파필터), 크라프트 칼라 더스트백(브라운 카드 홀더 대용량 먼지봉투), 스파이럴 브러시·원형 걸레(실리콘 나선형 롤러 + 3암 브러시 + 원형 패드)) 및 교체 신호 비교. 드리미 L...</description>
-    </item>
-    <item>
-      <title>에코백스 디봇 X11 프로 옴니(옴니사이클론) 롤러 걸레·V자 브러시 1년 세트 관리</title>
-      <link>https://djunjong-lang.github.io/guides/nb-0190-ecovacs-x11-pro-omni/</link>
-      <guid isPermaLink="true">https://djunjong-lang.github.io/guides/nb-0190-ecovacs-x11-pro-omni/</guid>
-      <pubDate>Thu, 19 Nov 2026 09:00:00 +0900</pubDate>
-      <description>에코백스 디봇 X11 프로 점검 규격(스트라이프 원통형 롤러 걸레(장폭 극세사 스트라이프 롤러 슬리브), 블루·블랙 V자·사이드브러시(엉킴 방지 V자 롤러 + 전용 사이드브러시), 다크그레이 필터·더스트백(사각 워셔블 주름 필터 + 전용 칼라 더스트백)) 및 교체 신...</description>
     </item>
   </channel>
 </rss>
