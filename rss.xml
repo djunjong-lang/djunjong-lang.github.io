@@ -6,7 +6,28 @@
     <atom:link href="https://djunjong-lang.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <description>로보락 · 드리미 · 에코백스 · 나르왈 · 모바 · 샤오미 기종별 소모품 규격·교체 체크리스트 아카이브</description>
     <language>ko</language>
-    <lastBuildDate>Fri, 27 Nov 2026 21:31:14 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 03:31:14 +0900</lastBuildDate>
+    <item>
+      <title>나르왈 S30 Pro 소모품 교체 주기｜아쿠아 롤러·필터 냄새·물자국 관리</title>
+      <link>https://djunjong-lang.github.io/guides/nb-0288-narwal-s30-pro/</link>
+      <guid isPermaLink="true">https://djunjong-lang.github.io/guides/nb-0288-narwal-s30-pro/</guid>
+      <pubDate>Sat, 28 Nov 2026 09:00:00 +0900</pubDate>
+      <description>나르왈 S30 Pro 점검 규격(퍼플 스트라이프 브러시 롤러 (2개)(화이트·그레이 바탕 퍼플 줄무늬 극세사 원통 롤러), 사각 블랙 프레임 헤파필터 (4개)(오수통 상단 결합용 사각 주름 워셔블 필터), 측면 탈착 핸들 · 결합부(보라·검정 롤러 측면 탈착 캡·오수...</description>
+    </item>
+    <item>
+      <title>드리미 X50s Pro Master 소모품 교체 주기｜물걸레 냄새·1년 세트 비교</title>
+      <link>https://djunjong-lang.github.io/guides/nb-0287-dreame-x50s-pro-master/</link>
+      <guid isPermaLink="true">https://djunjong-lang.github.io/guides/nb-0287-dreame-x50s-pro-master/</guid>
+      <pubDate>Sat, 28 Nov 2026 09:00:00 +0900</pubDate>
+      <description>드리미 X50s Pro Master 점검 규격(원추형 듀오브러시 · 3암 브러시(엉킴 방지 원추형 롤러 1쌍 + 3암 사이드브러시), 그레이 원형 회전 걸레(온수 세척 대응 극세사 원형 패드), 화이트 탭 필터 · 블랙 칼라 봉투) 및 교체 신호 비교. 원추형 듀오브...</description>
+    </item>
+    <item>
+      <title>로보락 S8 MaxV Ultra 소모품·세제 포함 세트｜타일 바닥 마모·물자국 관리</title>
+      <link>https://djunjong-lang.github.io/guides/nb-0286-s8max-det/</link>
+      <guid isPermaLink="true">https://djunjong-lang.github.io/guides/nb-0286-s8max-det/</guid>
+      <pubDate>Fri, 27 Nov 2026 09:00:00 +0900</pubDate>
+      <description>로보락 S8 MaxV Ultra 점검 규격(적·흑 듀오롤러 · 3발 브러시(나선형 고무 롤러 1쌍 + 3갈래 사이드브러시), 반원형 메인 · 원형 미니 걸레(음파 진동 메인 패드 + 모서리 스윙 미니 패드), 코너탭 필터 · 더스트백 · 세제) 및 교체 신호 비교....</description>
+    </item>
     <item>
       <title>로보락 S9 MaxV Ultra 세제 미포함 세트｜S10 규격 비교·서랍 비축 관리</title>
       <link>https://djunjong-lang.github.io/guides/nb-0285-s9-nodet/</link>
@@ -335,27 +356,6 @@
       <guid isPermaLink="true">https://djunjong-lang.github.io/guides/nb-0239-dreame-x50s-pro-master/</guid>
       <pubDate>Tue, 24 Nov 2026 09:00:00 +0900</pubDate>
       <description>직배수 하부장 습기 막는 점검 규격(원추형 듀오브러시·3암 브러시, 블랙 칼라 더스트백(고무 실링 슬라이딩 블랙 플라스틱 칼라 봉투), 원형 회전 걸레·다크그레이 필터(그레이 극세사 원형 패드 + 화이트 상단 탭 필터)) 및 교체 신호 비교. 직배수 하부장 습기 막는...</description>
-    </item>
-    <item>
-      <title>적·흑 듀오롤러와 3발 브러시·전용 세제까지 챙기는 로보락 S8 MaxV Ultra 1년 세트</title>
-      <link>https://djunjong-lang.github.io/guides/nb-0238-s8max-det/</link>
-      <guid isPermaLink="true">https://djunjong-lang.github.io/guides/nb-0238-s8max-det/</guid>
-      <pubDate>Mon, 23 Nov 2026 09:00:00 +0900</pubDate>
-      <description>적·흑 듀오롤러와 3발 브러시· 점검 규격(적·흑 듀오롤러·3발 브러시(나선형 고무 롤러 1쌍 + 3갈래 사이드브러시), 반원형 메인·원형 미니 걸레(음파 진동 메인 패드 + 모서리 스윙 미니 패드), 코너탭 필터·더스트백·세제) 및 교체 신호 비교. 적·흑 듀오롤러...</description>
-    </item>
-    <item>
-      <title>계단식 단차형 필터 오주문 예방하는 로보락 S9 MaxV Ultra 세제 미포함 세트 점검표</title>
-      <link>https://djunjong-lang.github.io/guides/nb-0237-s9-nodet/</link>
-      <guid isPermaLink="true">https://djunjong-lang.github.io/guides/nb-0237-s9-nodet/</guid>
-      <pubDate>Mon, 23 Nov 2026 09:00:00 +0900</pubDate>
-      <description>계단식 단차형 필터 오주문 점검 규격(비대칭 단차형 필터(한쪽 모서리가 계단처럼 꺾인 2분할 주름 필터), 황토색 칼라 더스트백(직사각 황토색(베이지) 판지 홀더 먼지봉투), 듀오디바이드·메인/미니 걸레) 및 교체 신호 비교. 계단식 단차형 필터 오주문의 비대칭 단차...</description>
-    </item>
-    <item>
-      <title>세정제 여분 있는 가정을 위한 로보락 S10 MaxV Ultra 세제 미포함 1년·6개월 세트</title>
-      <link>https://djunjong-lang.github.io/guides/nb-0236-s10-nodet/</link>
-      <guid isPermaLink="true">https://djunjong-lang.github.io/guides/nb-0236-s10-nodet/</guid>
-      <pubDate>Mon, 23 Nov 2026 09:00:00 +0900</pubDate>
-      <description>세정제 여분 있는 가정을 점검 규격(듀오디바이드·2발 사이드브러시, 반원형 메인·원형 미니 걸레(진동형 메인 패드 + 모서리 스윙 원형 미니 패드), 중앙 세로탭 필터·회색 더스트백) 및 교체 신호 비교. 세정제 여분 있는 가정을의 듀오디바이드·2발 사이드브러시 규격...</description>
     </item>
   </channel>
 </rss>
