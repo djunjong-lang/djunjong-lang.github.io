@@ -6,7 +6,28 @@
     <atom:link href="https://djunjong-lang.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <description>로보락 · 드리미 · 에코백스 · 나르왈 · 모바 · 샤오미 기종별 소모품 규격·교체 체크리스트 아카이브</description>
     <language>ko</language>
-    <lastBuildDate>Fri, 27 Nov 2026 03:31:14 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 09:31:14 +0900</lastBuildDate>
+    <item>
+      <title>에코백스 T90·T80·X11 세제 투입법 총정리｜정품 클리너 1L 보충·보관 루틴</title>
+      <link>https://djunjong-lang.github.io/guides/nb-0279-ecovacs-cleaner/</link>
+      <guid isPermaLink="true">https://djunjong-lang.github.io/guides/nb-0279-ecovacs-cleaner/</guid>
+      <pubDate>Fri, 27 Nov 2026 09:00:00 +0900</pubDate>
+      <description>에코백스 T90·T80·X11 세제 투입법 총정리 점검 규격(자동 세제통 탑재 도크, 정수통 수동 희석 도크(자동 세제 모듈이 없는 일반 물통형 모델), 오수통·세척조 동시 케어(주 1회 거름망 헹굼 + 마개 입구 닦기)) 및 교체 신호 비교. 자동 세제 투입 도크인...</description>
+    </item>
+    <item>
+      <title>로보락 S10 MaxV Ultra 필터·미니 걸레 규격 점검｜실패 없는 1년 세트 가이드</title>
+      <link>https://djunjong-lang.github.io/guides/nb-0278-s10/</link>
+      <guid isPermaLink="true">https://djunjong-lang.github.io/guides/nb-0278-s10/</guid>
+      <pubDate>Fri, 27 Nov 2026 09:00:00 +0900</pubDate>
+      <description>로보락 S10 MaxV Ultra 점검 규격(S10 vs S9 필터 1초 구분, 미니 엣지 패드 동시 케어(우측 모서리 전용 소형 원형 패드 포함 여부 체크), 세제 옵션 맞춤 설계(호환세제 / 정품세제 업그레이드 / 세제 미포함)) 및 교체 신호 비교. 곡선형 2발...</description>
+    </item>
+    <item>
+      <title>샤오미 X20 MAX 고온 세척 물걸레·필터 관리법｜오주문 없는 1년 소모품 패키지</title>
+      <link>https://djunjong-lang.github.io/guides/nb-0277-xiaomi-x20-max/</link>
+      <guid isPermaLink="true">https://djunjong-lang.github.io/guides/nb-0277-xiaomi-x20-max/</guid>
+      <pubDate>Fri, 27 Nov 2026 09:00:00 +0900</pubDate>
+      <description>샤오미 X20 MAX 고온 세척 점검 규격(X20 MAX vs X20 Pro 구분(구매 내역·앱 기기명에서 ‘MAX’ 표기 확인), 고온 세척 패드 수명 늘리기(예비 원형 걸레와 주 1회 통풍 교대), 미세먼지 흡입력 회복(마른 예비 직사각 주름 필터 1:1 교대))...</description>
+    </item>
     <item>
       <title>나르왈 프레오 Z10 울트라 삼각 걸레·원추형 브러시 관리｜오주문 없는 1년 세트</title>
       <link>https://djunjong-lang.github.io/guides/nb-0276-narwal-freo-z10-ultra/</link>
@@ -335,27 +356,6 @@
       <guid isPermaLink="true">https://djunjong-lang.github.io/guides/nb-0230-s10/</guid>
       <pubDate>Mon, 23 Nov 2026 09:00:00 +0900</pubDate>
       <description>매일 물걸레 청소하는 가정을 점검 규격(듀오디바이드·2발 브러시, 중앙 세로탭 필터·회색 더스트백, 반원형 메인·원형 미니 걸레·세제(진동 메인 패드 + 엣지 미니 패드 + 선택 세제)) 및 교체 신호 비교. 매일 물걸레 청소하는 가정을의 듀오디바이드·2발 브러시 규...</description>
-    </item>
-    <item>
-      <title>온수 세척·열풍 건조 스테이션용 샤오미 X20 MAX 원형 걸레·더스트백 1년 소모품 세트</title>
-      <link>https://djunjong-lang.github.io/guides/nb-0229-xiaomi-x20-max/</link>
-      <guid isPermaLink="true">https://djunjong-lang.github.io/guides/nb-0229-xiaomi-x20-max/</guid>
-      <pubDate>Mon, 23 Nov 2026 09:00:00 +0900</pubDate>
-      <description>온수 세척 점검 규격(슬림형 블랙 프레임 필터(가로형 직사각 워셔블 헤파필터), 오렌지 V자 메인·3암 브러시(주황·검정 롤러 브러시 + 3갈래 사이드브러시), 원형 회전 걸레·더스트백(그레이 극세사 원형 패드 + 크라프트 칼라 봉투)) 및 교체 신호 비교. 온수 세...</description>
-    </item>
-    <item>
-      <title>삼각 모서리 물걸레 패드 밀착력 살리는 나르왈 프레오 Z10 울트라 1년 세트 교대 루틴</title>
-      <link>https://djunjong-lang.github.io/guides/nb-0228-narwal-freo-z10-ultra/</link>
-      <guid isPermaLink="true">https://djunjong-lang.github.io/guides/nb-0228-narwal-freo-z10-ultra/</guid>
-      <pubDate>Mon, 23 Nov 2026 09:00:00 +0900</pubDate>
-      <description>삼각 모서리 점검 규격(둥근 삼각 물걸레 패드(삼각 센터홀 화이트 플러시 극세사 패드), 퍼플 고리 더스트백(다크그레이 칼라 + 보라색 당김 고리 봉투), 원추형 브러시·화이트 필터(퍼플·블랙 스파이럴 브러시 + 화이트 프레임 필터)) 및 교체 신호 비교. 삼각 모서...</description>
-    </item>
-    <item>
-      <title>후속 모델과 더스트백·필터 규격이 다른 드리미 L20 울트라·X30 울트라 전용 1년 세트</title>
-      <link>https://djunjong-lang.github.io/guides/nb-0227-dreame-l20-ultra/</link>
-      <guid isPermaLink="true">https://djunjong-lang.github.io/guides/nb-0227-dreame-l20-ultra/</guid>
-      <pubDate>Mon, 23 Nov 2026 09:00:00 +0900</pubDate>
-      <description>후속 모델과 점검 규격(세로형 블랙 프레임 필터(세로가 긴 직사각 워셔블 헤파필터), 크라프트 칼라 더스트백(브라운 카드 홀더 대용량 먼지봉투), 스파이럴 브러시·원형 걸레(실리콘 나선형 롤러 + 3암 브러시 + 원형 패드)) 및 교체 신호 비교. 후속 모델과의 세로...</description>
     </item>
   </channel>
 </rss>
