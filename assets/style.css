@@ -30,7 +30,10 @@ header.site-header {
 .site-brand { font-size: 1.25rem; font-weight: 800; color: var(--text); }
 .site-sub { font-size: 0.9rem; color: var(--muted); margin-top: 4px; }
 nav.brand-nav {
-  display: flex; flex-wrap: wrap; gap: 8px; margin-top: 14px;
+  display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; align-items: center;
+}
+.nav-group-label {
+  font-size: 0.76rem; font-weight: 800; color: #64748b; padding: 3px 6px 3px 0;
 }
 nav.brand-nav a {
   font-size: 0.85rem; font-weight: 600; padding: 5px 12px;
@@ -39,6 +42,23 @@ nav.brand-nav a {
 nav.brand-nav a.active, nav.brand-nav a:hover {
   background: var(--accent); color: #fff; text-decoration: none;
 }
+nav.brand-nav.review-nav {
+  margin-top: 8px; padding-top: 8px; border-top: 1px dashed var(--border);
+}
+nav.brand-nav.review-nav a {
+  background: #eff6ff; color: #1e40af;
+}
+nav.brand-nav.review-nav a.active, nav.brand-nav.review-nav a:hover {
+  background: var(--blue); color: #fff; text-decoration: none;
+}
+.badge.badge-blue {
+  background: var(--blue-soft); color: var(--blue);
+}
+.top-cta-bar.review-cta {
+  background: linear-gradient(135deg, #eff6ff 0%, #f8fafc 100%);
+  border-color: #93c5fd;
+}
+.top-cta-bar.review-cta .top-cta-kicker { color: var(--blue); }
 main { padding: 28px 0 56px; }
 .card {
   background: var(--card);
