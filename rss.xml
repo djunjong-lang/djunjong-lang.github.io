@@ -6,7 +6,28 @@
     <atom:link href="https://djunjong-lang.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <description>로보락 · 드리미 · 에코백스 · 나르왈 · 모바 · 샤오미 기종별 소모품 규격·교체 체크리스트 아카이브</description>
     <language>ko</language>
-    <lastBuildDate>Sat, 28 Nov 2026 09:31:13 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 15:31:15 +0900</lastBuildDate>
+    <item>
+      <title>로보락 Q Revo Curv 2 Flow 브러시·필터 관리｜3·6·12개월 세트 선택</title>
+      <link>https://djunjong-lang.github.io/guides/nb-0294-qrevo-curv2-flow/</link>
+      <guid isPermaLink="true">https://djunjong-lang.github.io/guides/nb-0294-qrevo-curv2-flow/</guid>
+      <pubDate>Sat, 28 Nov 2026 09:00:00 +0900</pubDate>
+      <description>로보락 Q Revo Curv 점검 규격(듀오디바이드 · 2암 브러시, 원통형 롤러 물걸레, 블랙 프레임 필터 · 더스트백) 및 교체 신호 비교. 듀오디바이드 브러시는 머리카락이 덜 엉킨다는데도 주 1회 분리 점검이 필요한가요?</description>
+    </item>
+    <item>
+      <title>에브리봇 Q3 플러스 브러시 엉킴·서랍 비축 관리｜3·6·12개월 세트 선택</title>
+      <link>https://djunjong-lang.github.io/guides/nb-0293-everybot-q3-plus/</link>
+      <guid isPermaLink="true">https://djunjong-lang.github.io/guides/nb-0293-everybot-q3-plus/</guid>
+      <pubDate>Sat, 28 Nov 2026 09:00:00 +0900</pubDate>
+      <description>에브리봇 Q3 플러스 브러시 엉킴·서랍 비축 관리 점검 규격(V자 메인 · 3암 브러시, 원형 극세사 물걸레 패드(그레이 도톰 원형 벨크로 부착 패드 쌍), 헤파필터 · 더스트백(화이트 프레임 직사각 필터 + 화이트 칼라 봉투)) 및 교체 신호 비교. V자 메인브러시...</description>
+    </item>
+    <item>
+      <title>모바 S70 울트라 롤러 물자국·코어 건조 관리｜세제 미포함 실속 세트</title>
+      <link>https://djunjong-lang.github.io/guides/nb-0292-mova-s70-ultra-roller-nodet/</link>
+      <guid isPermaLink="true">https://djunjong-lang.github.io/guides/nb-0292-mova-s70-ultra-roller-nodet/</guid>
+      <pubDate>Sat, 28 Nov 2026 09:00:00 +0900</pubDate>
+      <description>모바 S70 울트라 롤러 물자국·코어 건조 관리 점검 규격(원통형 롤러 물걸레 튜브(측면 홀더 결합형 장폭 극세사 롤러 튜브), 스파이럴 · 3암 브러시(그레이 스파이럴 고무 메인롤러 + 3암 사이드브러시), 필터 · 더스트백) 및 교체 신호 비교. 자동 세척과 열풍...</description>
+    </item>
     <item>
       <title>모바 P70 프로 울트라 필터 건조·배기구 냄새 관리｜세제 미포함 실속 세트</title>
       <link>https://djunjong-lang.github.io/guides/nb-0291-mova-p70-pro-ultra-nodet/</link>
@@ -335,27 +356,6 @@
       <guid isPermaLink="true">https://djunjong-lang.github.io/guides/nb-0245-everybot-q3-plus/</guid>
       <pubDate>Tue, 24 Nov 2026 09:00:00 +0900</pubDate>
       <description>에브리봇 Q3 플러스 점검 규격(원형 회전 물걸레 패드(벨크로 밀착형 도톰한 그레이 극세사 쌍), V자 메인·3암 사이드브러시(오렌지·블랙 복합 롤러 + 화이트 3암 브러시), 직사각 헤파필터·더스트백(화이트 프레임 필터 + 화이트 칼라 먼지봉투)) 및 교체 신호 비...</description>
-    </item>
-    <item>
-      <title>로보락 S9 MaxV Ultra 소모품 교체 주기｜단차 필터·더스트백 1년 세트 비교</title>
-      <link>https://djunjong-lang.github.io/guides/nb-0244-s9/</link>
-      <guid isPermaLink="true">https://djunjong-lang.github.io/guides/nb-0244-s9/</guid>
-      <pubDate>Tue, 24 Nov 2026 09:00:00 +0900</pubDate>
-      <description>로보락 S9 MaxV Ultra 점검 규격(슬라이딩 밀봉 더스트백(S9 전용 카드 홀더 대용량 먼지봉투), 단차형 워셔블 필터(비대칭 계단식 프레임 헤파필터), 듀오디바이드·사이드브러시(2분할 원추형 메인 롤러 + 전용 사이드브러시)) 및 교체 신호 비교. S8 시리...</description>
-    </item>
-    <item>
-      <title>로보락 세제 물걸레 쉰내·오수통 냄새 줄이는 정품 클리너 1L 세척·건조 루틴</title>
-      <link>https://djunjong-lang.github.io/guides/nb-0243-roborock-cleaner/</link>
-      <guid isPermaLink="true">https://djunjong-lang.github.io/guides/nb-0243-roborock-cleaner/</guid>
-      <pubDate>Tue, 24 Nov 2026 09:00:00 +0900</pubDate>
-      <description>로보락 세제 점검 규격(자동 세제통 탑재 도크, 정수통 희석 사용 도크(자동 세제통 미탑재 Qrevo·일반 물통형 모델), 오수통·걸레 교대 관리(전 기종 공통 스테이션 점검)) 및 교체 신호 비교. 자동 세제통이 있는 S10·S9·S8 모델인데 정수통에도 세제를 추...</description>
-    </item>
-    <item>
-      <title>회전 물걸레 편마모 줄이는 모바 P70 프로 울트라 좌우 교차 장착과 세제 포함 1년 세트</title>
-      <link>https://djunjong-lang.github.io/guides/nb-0242-mova-p70-pro-ultra/</link>
-      <guid isPermaLink="true">https://djunjong-lang.github.io/guides/nb-0242-mova-p70-pro-ultra/</guid>
-      <pubDate>Tue, 24 Nov 2026 09:00:00 +0900</pubDate>
-      <description>회전 물걸레 편마모 줄이는 점검 규격(그레이 스파이럴 메인·3암 브러시(실리콘 나선형 롤러 브러시 + 3갈래 사이드브러시), 원형 회전 물걸레·전용 세제(그레이 극세사 원형 패드 + 전용 클리너 포함), 블랙 프레임 필터·더스트백(직사각 워셔블 필터 + 블랙 플라스틱...</description>
     </item>
   </channel>
 </rss>
